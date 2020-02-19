@@ -1,0 +1,21 @@
+[{
+	"name": "Yoshi",
+	"belt": "green",
+	"avaliable": true,
+	"thumb": "content/img/ninja.png"
+}, {
+	"name": "Crystal",
+	"belt": "yellow",
+	"avaliable": true,
+	"thumb": "content/img/ninja.png"
+}, {
+	"name": "Cairo",
+	"belt": "red",
+	"avaliable": true,
+	"thumb": "content/img/ninja.png"
+}, {
+	"name": "Shaum",
+	"belt": "black",
+	"avaliable": true,
+	"thumb": "content/img/ninja.png"
+}]
